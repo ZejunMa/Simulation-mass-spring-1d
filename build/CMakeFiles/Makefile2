@@ -146,9 +146,9 @@ imgui/clean: imgui/CMakeFiles/imgui.dir/clean
 # Target rules for target CMakeFiles/a1-mass-spring-1d.dir
 
 # All Build rule for target.
-CMakeFiles/a1-mass-spring-1d.dir/all: imgui/CMakeFiles/imgui.dir/all
 CMakeFiles/a1-mass-spring-1d.dir/all: glad/CMakeFiles/glad.dir/all
 CMakeFiles/a1-mass-spring-1d.dir/all: glfw/src/CMakeFiles/glfw.dir/all
+CMakeFiles/a1-mass-spring-1d.dir/all: imgui/CMakeFiles/imgui.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/a1-mass-spring-1d.dir/build.make CMakeFiles/a1-mass-spring-1d.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/a1-mass-spring-1d.dir/build.make CMakeFiles/a1-mass-spring-1d.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zejunma/Desktop/Simulation-mass-spring-1d/build/CMakeFiles --progress-num=1,2,3,4,5 "Built target a1-mass-spring-1d"

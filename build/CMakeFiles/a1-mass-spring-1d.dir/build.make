@@ -73,57 +73,57 @@ CMakeFiles/a1-mass-spring-1d.dir/main.cpp.o: CMakeFiles/a1-mass-spring-1d.dir/fl
 CMakeFiles/a1-mass-spring-1d.dir/main.cpp.o: ../main.cpp
 CMakeFiles/a1-mass-spring-1d.dir/main.cpp.o: CMakeFiles/a1-mass-spring-1d.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zejunma/Desktop/Simulation-mass-spring-1d/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/a1-mass-spring-1d.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a1-mass-spring-1d.dir/main.cpp.o -MF CMakeFiles/a1-mass-spring-1d.dir/main.cpp.o.d -o CMakeFiles/a1-mass-spring-1d.dir/main.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/main.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a1-mass-spring-1d.dir/main.cpp.o -MF CMakeFiles/a1-mass-spring-1d.dir/main.cpp.o.d -o CMakeFiles/a1-mass-spring-1d.dir/main.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/main.cpp
 
 CMakeFiles/a1-mass-spring-1d.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a1-mass-spring-1d.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/main.cpp > CMakeFiles/a1-mass-spring-1d.dir/main.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/main.cpp > CMakeFiles/a1-mass-spring-1d.dir/main.cpp.i
 
 CMakeFiles/a1-mass-spring-1d.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a1-mass-spring-1d.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/main.cpp -o CMakeFiles/a1-mass-spring-1d.dir/main.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/main.cpp -o CMakeFiles/a1-mass-spring-1d.dir/main.cpp.s
 
 CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.o: CMakeFiles/a1-mass-spring-1d.dir/flags.make
 CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.o: ../src/d2V_spring_particle_particle_dq2.cpp
 CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.o: CMakeFiles/a1-mass-spring-1d.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zejunma/Desktop/Simulation-mass-spring-1d/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.o -MF CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.o.d -o CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/src/d2V_spring_particle_particle_dq2.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.o -MF CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.o.d -o CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/src/d2V_spring_particle_particle_dq2.cpp
 
 CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/src/d2V_spring_particle_particle_dq2.cpp > CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/src/d2V_spring_particle_particle_dq2.cpp > CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.i
 
 CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/src/d2V_spring_particle_particle_dq2.cpp -o CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/src/d2V_spring_particle_particle_dq2.cpp -o CMakeFiles/a1-mass-spring-1d.dir/src/d2V_spring_particle_particle_dq2.cpp.s
 
 CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.o: CMakeFiles/a1-mass-spring-1d.dir/flags.make
 CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.o: ../src/dV_spring_particle_particle_dq.cpp
 CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.o: CMakeFiles/a1-mass-spring-1d.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zejunma/Desktop/Simulation-mass-spring-1d/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.o -MF CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.o.d -o CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/src/dV_spring_particle_particle_dq.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.o -MF CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.o.d -o CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/src/dV_spring_particle_particle_dq.cpp
 
 CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/src/dV_spring_particle_particle_dq.cpp > CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/src/dV_spring_particle_particle_dq.cpp > CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.i
 
 CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/src/dV_spring_particle_particle_dq.cpp -o CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/src/dV_spring_particle_particle_dq.cpp -o CMakeFiles/a1-mass-spring-1d.dir/src/dV_spring_particle_particle_dq.cpp.s
 
 CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.o: CMakeFiles/a1-mass-spring-1d.dir/flags.make
 CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.o: ../shared/src/visualization.cpp
 CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.o: CMakeFiles/a1-mass-spring-1d.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zejunma/Desktop/Simulation-mass-spring-1d/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.o -MF CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.o.d -o CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/shared/src/visualization.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.o -MF CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.o.d -o CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/shared/src/visualization.cpp
 
 CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/shared/src/visualization.cpp > CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/shared/src/visualization.cpp > CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.i
 
 CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/shared/src/visualization.cpp -o CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/shared/src/visualization.cpp -o CMakeFiles/a1-mass-spring-1d.dir/shared/src/visualization.cpp.s
 
 # Object files for target a1-mass-spring-1d
 a1__mass__spring__1d_OBJECTS = \

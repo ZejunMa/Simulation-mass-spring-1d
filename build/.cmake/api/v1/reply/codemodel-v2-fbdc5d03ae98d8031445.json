@@ -1,0 +1,179 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "glad",
+					"jsonFile" : "directory-glad-Debug-a57248e38474c6c3b586.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "extern/libigl/external/glad",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "glfw",
+					"childIndexes" : 
+					[
+						3
+					],
+					"jsonFile" : "directory-glfw-Debug-21ba3b183f1e920f6927.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "extern/libigl/external/glfw"
+				},
+				{
+					"build" : "glfw/src",
+					"jsonFile" : "directory-glfw.src-Debug-7b904af0d91230f7a68a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "extern/libigl/external/glfw/src",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "imgui",
+					"jsonFile" : "directory-imgui-Debug-fd66ce8137fc09436e9c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "extern/libigl/external/libigl-imgui",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						4
+					],
+					"name" : "a1-mass-spring-1d",
+					"targetIndexes" : 
+					[
+						0,
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "glad",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2,
+						3
+					],
+					"name" : "GLFW",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "a1-mass-spring-1d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-a1-mass-spring-1d-Debug-26fb8271514afb745370.json",
+					"name" : "a1-mass-spring-1d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "glad::@74ca6b3581f0d7366b1f",
+					"jsonFile" : "target-glad-Debug-c2c931507ed43b26bf2c.json",
+					"name" : "glad",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "glfw::@12507ebf64a5258d241e",
+					"jsonFile" : "target-glfw-Debug-36a02a3acc128639fcaf.json",
+					"name" : "glfw",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "imgui::@45ca6dacf63e9879b888",
+					"jsonFile" : "target-imgui-Debug-02f7facf170732e66d4e.json",
+					"name" : "imgui",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zejunma/Desktop/Simulation-mass-spring-1d/build",
+		"source" : "/home/zejunma/Desktop/Simulation-mass-spring-1d"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

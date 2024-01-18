@@ -73,15 +73,15 @@ glad/CMakeFiles/glad.dir/src/glad.c.o: glad/CMakeFiles/glad.dir/flags.make
 glad/CMakeFiles/glad.dir/src/glad.c.o: ../extern/libigl/external/glad/src/glad.c
 glad/CMakeFiles/glad.dir/src/glad.c.o: glad/CMakeFiles/glad.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zejunma/Desktop/Simulation-mass-spring-1d/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object glad/CMakeFiles/glad.dir/src/glad.c.o"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/glad && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT glad/CMakeFiles/glad.dir/src/glad.c.o -MF CMakeFiles/glad.dir/src/glad.c.o.d -o CMakeFiles/glad.dir/src/glad.c.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/glad/src/glad.c
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/glad && /usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT glad/CMakeFiles/glad.dir/src/glad.c.o -MF CMakeFiles/glad.dir/src/glad.c.o.d -o CMakeFiles/glad.dir/src/glad.c.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/glad/src/glad.c
 
 glad/CMakeFiles/glad.dir/src/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glad.dir/src/glad.c.i"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/glad && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/glad/src/glad.c > CMakeFiles/glad.dir/src/glad.c.i
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/glad && /usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/glad/src/glad.c > CMakeFiles/glad.dir/src/glad.c.i
 
 glad/CMakeFiles/glad.dir/src/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glad.dir/src/glad.c.s"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/glad && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/glad/src/glad.c -o CMakeFiles/glad.dir/src/glad.c.s
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/glad && /usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/glad/src/glad.c -o CMakeFiles/glad.dir/src/glad.c.s
 
 # Object files for target glad
 glad_OBJECTS = \

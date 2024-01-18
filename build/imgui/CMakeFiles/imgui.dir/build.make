@@ -73,85 +73,85 @@ imgui/CMakeFiles/imgui.dir/__/imgui/imgui.cpp.o: imgui/CMakeFiles/imgui.dir/flag
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui.cpp.o: ../extern/libigl/external/imgui/imgui.cpp
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui.cpp.o: imgui/CMakeFiles/imgui.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zejunma/Desktop/Simulation-mass-spring-1d/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object imgui/CMakeFiles/imgui.dir/__/imgui/imgui.cpp.o"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT imgui/CMakeFiles/imgui.dir/__/imgui/imgui.cpp.o -MF CMakeFiles/imgui.dir/__/imgui/imgui.cpp.o.d -o CMakeFiles/imgui.dir/__/imgui/imgui.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui.cpp
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT imgui/CMakeFiles/imgui.dir/__/imgui/imgui.cpp.o -MF CMakeFiles/imgui.dir/__/imgui/imgui.cpp.o.d -o CMakeFiles/imgui.dir/__/imgui/imgui.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui.cpp
 
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/imgui.dir/__/imgui/imgui.cpp.i"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui.cpp > CMakeFiles/imgui.dir/__/imgui/imgui.cpp.i
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui.cpp > CMakeFiles/imgui.dir/__/imgui/imgui.cpp.i
 
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/imgui.dir/__/imgui/imgui.cpp.s"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui.cpp -o CMakeFiles/imgui.dir/__/imgui/imgui.cpp.s
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui.cpp -o CMakeFiles/imgui.dir/__/imgui/imgui.cpp.s
 
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.o: imgui/CMakeFiles/imgui.dir/flags.make
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.o: ../extern/libigl/external/imgui/imgui_demo.cpp
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.o: imgui/CMakeFiles/imgui.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zejunma/Desktop/Simulation-mass-spring-1d/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object imgui/CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.o"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT imgui/CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.o -MF CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.o.d -o CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_demo.cpp
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT imgui/CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.o -MF CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.o.d -o CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_demo.cpp
 
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.i"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_demo.cpp > CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.i
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_demo.cpp > CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.i
 
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.s"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_demo.cpp -o CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.s
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_demo.cpp -o CMakeFiles/imgui.dir/__/imgui/imgui_demo.cpp.s
 
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.o: imgui/CMakeFiles/imgui.dir/flags.make
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.o: ../extern/libigl/external/imgui/imgui_draw.cpp
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.o: imgui/CMakeFiles/imgui.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zejunma/Desktop/Simulation-mass-spring-1d/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object imgui/CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.o"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT imgui/CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.o -MF CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.o.d -o CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_draw.cpp
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT imgui/CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.o -MF CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.o.d -o CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_draw.cpp
 
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.i"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_draw.cpp > CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.i
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_draw.cpp > CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.i
 
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.s"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_draw.cpp -o CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.s
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_draw.cpp -o CMakeFiles/imgui.dir/__/imgui/imgui_draw.cpp.s
 
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.o: imgui/CMakeFiles/imgui.dir/flags.make
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.o: ../extern/libigl/external/imgui/imgui_widgets.cpp
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.o: imgui/CMakeFiles/imgui.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zejunma/Desktop/Simulation-mass-spring-1d/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object imgui/CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.o"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT imgui/CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.o -MF CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.o.d -o CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_widgets.cpp
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT imgui/CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.o -MF CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.o.d -o CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_widgets.cpp
 
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.i"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_widgets.cpp > CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.i
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_widgets.cpp > CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.i
 
 imgui/CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.s"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_widgets.cpp -o CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.s
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/imgui_widgets.cpp -o CMakeFiles/imgui.dir/__/imgui/imgui_widgets.cpp.s
 
 imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.o: imgui/CMakeFiles/imgui.dir/flags.make
 imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.o: ../extern/libigl/external/imgui/examples/imgui_impl_glfw.cpp
 imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.o: imgui/CMakeFiles/imgui.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zejunma/Desktop/Simulation-mass-spring-1d/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.o"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.o -MF CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.o.d -o CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/examples/imgui_impl_glfw.cpp
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.o -MF CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.o.d -o CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/examples/imgui_impl_glfw.cpp
 
 imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.i"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/examples/imgui_impl_glfw.cpp > CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.i
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/examples/imgui_impl_glfw.cpp > CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.i
 
 imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.s"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/examples/imgui_impl_glfw.cpp -o CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.s
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/examples/imgui_impl_glfw.cpp -o CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_glfw.cpp.s
 
 imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.o: imgui/CMakeFiles/imgui.dir/flags.make
 imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.o: ../extern/libigl/external/imgui/examples/imgui_impl_opengl3.cpp
 imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.o: imgui/CMakeFiles/imgui.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zejunma/Desktop/Simulation-mass-spring-1d/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.o"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.o -MF CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.o.d -o CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/examples/imgui_impl_opengl3.cpp
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.o -MF CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.o.d -o CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.o -c /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/examples/imgui_impl_opengl3.cpp
 
 imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.i"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/examples/imgui_impl_opengl3.cpp > CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.i
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/examples/imgui_impl_opengl3.cpp > CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.i
 
 imgui/CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.s"
-	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/examples/imgui_impl_opengl3.cpp -o CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.s
+	cd /home/zejunma/Desktop/Simulation-mass-spring-1d/build/imgui && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zejunma/Desktop/Simulation-mass-spring-1d/extern/libigl/external/imgui/examples/imgui_impl_opengl3.cpp -o CMakeFiles/imgui.dir/__/imgui/examples/imgui_impl_opengl3.cpp.s
 
 # Object files for target imgui
 imgui_OBJECTS = \
